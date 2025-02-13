@@ -10,6 +10,15 @@ h1 {
   margin-bottom: 1rem;
 }
 
+.result_box {
+  padding: 1rem;
+  border: 2px solid white;
+  text-align: center;
+  color: white;
+  margin-bottom: 1.5rem;
+  border-radius: 0.5rem;
+}
+
 .input_area {
   width: 100%;
   display: flex;
